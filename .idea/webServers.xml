@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7ab6aea1-497f-43dd-baba-9341da26431d" name="barri.p-host.in" url="http://CETUS.LITE-HOST.IN">
+        <fileTransfer rootFolder="/domains/barri.p-host.in/public_html" host="CETUS.LITE-HOST.IN" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
